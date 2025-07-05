@@ -1,0 +1,4 @@
+# Configuration file for GenAIProject01
+embedding_model: "openai"
+vector_db: "faiss"
+llm_provider: "openai"
